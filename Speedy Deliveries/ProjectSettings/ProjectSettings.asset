@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a87fa426195e4471d8498b61b012a3de
+  productGUID: 1580ea482deac4e87a47856a22514067
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -698,10 +698,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2ef9243f-cfdc-4c70-9222-e55d76eae619
+  cloudProjectId: d55ce01b-51b9-49f4-bbca-acc7700c07c0
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Speedy Deliveries
+  projectName: Speedy Deliveries 2023-11-05_15-16-33
   organizationId: ahmet23tr
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
