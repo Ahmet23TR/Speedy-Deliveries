@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Package
   - Customer
+  - Diamond
   layers:
   - Default
   - TransparentFX
@@ -42,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Dia
+    uniqueID: 4293866175
     locked: 0
